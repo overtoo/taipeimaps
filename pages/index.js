@@ -5,19 +5,19 @@ import styles from "../styles/Home.module.css";
 export default function Home() {
   const mapsData = [
     {
-      title: "Cafes",
-      description: "文青 cafes 2 work at ☕️ 🥵",
+      title: "文青 Cafes",
+      description: "2 work at",
       link:
         "https://www.google.com/maps/placelists/list/6UoUNzyeTsmyXKlnT2P5Og",
     },
     {
       title: "Bars",
-      description: "tpe drinks 🍺🍹",
+      description: "",
       link: "https://goo.gl/maps/XR9QrDMDMQTf1Wz5A",
     },
     {
       title: "Food",
-      description: "🥘🥘🥘",
+      description: "🥘🥘",
       link: "https://goo.gl/maps/E3RHTq4CjXPEU7hg6",
     },
   ];
