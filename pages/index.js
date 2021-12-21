@@ -50,7 +50,7 @@ export default function Home() {
       </main>
 
       <footer className={styles.footer}>
-        <a rel="noopener noreferrer">Powered by 𝖄𝖔𝖚𝖗 𝕯𝖆𝖉'𝖘 𝕬𝖘𝖘</a>
+        <a rel="noopener noreferrer">Powered by 𝖄𝖔𝖚𝖗 𝕯𝖆𝖉&apos;𝖘 𝕬𝖘𝖘</a>
       </footer>
     </div>
   );
