@@ -26,10 +26,6 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>Taipei Maps</h1>
-        <br />
-        <br />
-
-        <br />
 
         {/* <p className={styles.description}>description</p> */}
         <div className={styles.grid}>
