@@ -36,7 +36,11 @@ export default function Home() {
         {/* <p className={styles.description}>description</p> */}
         <div className={styles.grid}>
           {mapsData.map(({ id, description, title, link }) => (
-            <a href="https://nextjs.org/docs" className={styles.card}>
+            <a
+              href={link}
+              className={styles.card}
+              key={title + description.length}
+            >
               <h2>{title}</h2>
               {/* <h2>{title} &rarr;</h2> */}
               <p>{description}</p>
