@@ -15,6 +15,11 @@ export default function Home() {
       description: "tpe drinks 🍺🍹",
       link: "https://goo.gl/maps/XR9QrDMDMQTf1Wz5A",
     },
+    {
+      title: "Food",
+      description: "🥘🥘🥘",
+      link: "https://goo.gl/maps/E3RHTq4CjXPEU7hg6",
+    },
   ];
   return (
     <div className={styles.container}>
