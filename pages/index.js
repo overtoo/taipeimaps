@@ -28,9 +28,7 @@ export default function Home() {
         <h1 className={styles.title}>Taipei Maps</h1>
         <br />
         <br />
-        <br />
-        <br />
-        <br />
+
         <br />
 
         {/* <p className={styles.description}>description</p> */}
