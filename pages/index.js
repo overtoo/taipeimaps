@@ -16,11 +16,7 @@ export default function Home() {
       link: "https://goo.gl/maps/XR9QrDMDMQTf1Wz5A",
     },
     {
-      title: "Food",
-      description: "🥘🥘",
-      link: "https://goo.gl/maps/E3RHTq4CjXPEU7hg6",
-    },{
-      title: "Go w Yao",
+      title: "Food w Yao",
       description: "🥘🥘",
       link: "https://goo.gl/maps/fkGfwTWfSDTqiMbd6",
     }
