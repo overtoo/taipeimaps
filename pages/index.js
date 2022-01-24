@@ -19,7 +19,11 @@ export default function Home() {
       title: "Food",
       description: "🥘🥘",
       link: "https://goo.gl/maps/E3RHTq4CjXPEU7hg6",
-    },
+    },{
+      title: "Go w Yao",
+      description: "🥘🥘",
+      link: "https://goo.gl/maps/fkGfwTWfSDTqiMbd6",
+    }
   ];
   return (
     <div className={styles.container}>
